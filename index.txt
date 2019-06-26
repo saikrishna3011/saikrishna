@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<heaading>
+<title> my page </title>
+</heading>
+<body>
+<h1>my first heading <h1>
+<p> my first passage 
+<table>
+<tr>
+<th>animals</th>
+<th>birds</th>
+<th>reptiles</th>
+</tr>
+
+<tr>
+<td>cow</td>
+<td>sparrow</td>
+<td>lizard</td>
+</tr>
+
+
+
+<from action=""methods="">
+<label for="first name">first name:</label>
+<input type="text"id="first name" name=""> </br><br>
+<label for="last name">last name:</label>
+<input type="text id="last name:" name="">
+<!-- input elements go here -->
+</form>
+<form action ="method="">
+Yes:
+<input type="radio" name="yesorno" value=""></br>
+No:
+<input type="radio" name="yesorno" value="">
+</form>
+</body> 
+</html>
+
+
+< form action =""method="">
+<label for="first name">First Name:</label>
+<input type="text" id="first name" name="">
+
+<form action =""method="">
+<label for="last name">last  Name</label>
+<input type ="text" id="last name" name="">
+<!i-- Input elements go in here -->
+
+<form action=""method="">
+Comments:
+<form area rows="30" colomns="40"></text area></br>
+<input type ="submit" value="submit">
+ yes 
+< input type="radio" name="yesorno" value=""></br>
+No:
+<input type="radio" name="yesorno" value=""> 
+
+<select>
+<option value="michigan"><machigan</option>
+<option value="hydeerabad"</option>
+</select>
+
+
+
+
+
+</form>
+ 
+
+
+
